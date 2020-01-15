@@ -101,7 +101,7 @@ public class ClaseString {
             System.out.println("Posición i = " + i 
                     + " contenido = " + arrayChar[i]);
         }
-        
+        //Comentario al final del método main
     }
     
 }
